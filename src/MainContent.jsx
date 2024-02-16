@@ -26,7 +26,7 @@ export default function MainContent(){
                     </div>
                     <div className="about">
                         <h3>About</h3>
-                        <p>I am a aspiring full-stack Developer. I am constantly learning and adopting new techniques and knowledge related to my fuure career. </p>
+                        <p>I am an aspiring Full-Stack Developer. I am constantly learning and adopting new techniques and knowledge related to my future career. </p>
                          </div>
                          <div className="interest">
                             <h3>interests</h3>
