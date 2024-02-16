@@ -9,10 +9,10 @@
 
 .container{
     width: 350px;
-    background-color: #74788f;
+    background-color:#262734;
     border-radius: .8rem;
     overflow: hidden;
-    color: black;
+    color: white;
     
 }
 
@@ -101,7 +101,7 @@ a{
 .about, .interest{
     margin-top: 1rem;
     text-align: left;
-    color: black;
+    color: white;
 }
 
 .about h3, .interest h3 {
